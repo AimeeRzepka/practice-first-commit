@@ -397,7 +397,7 @@ $ ls
 menu.txt  my-steps.txt  plants/  proteins/  sweets/  veggies/
 
 rzepk@AimeeRzepka MINGW64 ~/OneDrive/Desktop/unit1-git-practice (main)
-$ git add .
+$ git add menu.txt .
 
 rzepk@AimeeRzepka MINGW64 ~/OneDrive/Desktop/unit1-git-practice (main)
 $ git status
@@ -412,7 +412,6 @@ Changes to be committed:
 rzepk@AimeeRzepka MINGW64 ~/OneDrive/Desktop/unit1-git-practice (main)
 $ git push
 Everything up-to-date
-
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
